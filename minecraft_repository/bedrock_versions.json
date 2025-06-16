@@ -11,6 +11,61 @@
         "version_name": "1.21 - 棘巧试炼",
         "child_versions": [
           // ============================================================
+          // 1.21.100
+          // ============================================================
+          {
+            "id": "1.21.100",
+            "version_name": "1.21.100",
+            "update_artwork": "",
+            "platforms": {
+              "android": {
+                "release": "未知", // TODO 待更新
+                "build": "1.21.100.20(+1)", // TODO 待更新
+                "support": "目标API: 34 | 最小API: 26",
+                "arch": "ARMv8, x86_64, ARMv7, x86, Universal",
+                "type": "APK(修改版) / APKS(原版)",
+                "size": "未知", // TODO 待更新
+                "note": "正式版暂未发布", // TODO 待更新
+                "style": "type",
+                "more_type": "true",
+                "channels": {
+                  "channel1": {
+                    "name": "OneDrive",
+                    "原版": "https://stellarnetwork-my.sharepoint.com/:f:/g/personal/spectrollay_e5_ilogic_studio/En5CxJhw96BPo8H20BsqBxUB2rDGLk4XIihCUAjTWgUYGA?e=TeYMNP",
+                    "中文译名修正": "https://stellarnetwork-my.sharepoint.com/:f:/g/personal/spectrollay_e5_ilogic_studio/EhAJd0JGR4pJviOEuysmyb4BVnGR3ybkXSNAsJsWiBu0sQ?e=5MDrHC",
+                    "去验证版": "https://stellarnetwork-my.sharepoint.com/:f:/g/personal/spectrollay_e5_ilogic_studio/EqI8_w1RBuRJrlAjqlgtnK8B_FBdQPdR7eLcKpDMpXwhJg?e=yWllpw",
+                    "多架构版": "https://stellarnetwork-my.sharepoint.com/:f:/g/personal/spectrollay_e5_ilogic_studio/EiKgFIAbLPpGig_U6BZPZ_4BnmkdN7Ki8wzXSaxXOIxNmw?e=sDsiYu",
+                    "精简版": "https://stellarnetwork-my.sharepoint.com/:f:/g/personal/spectrollay_e5_ilogic_studio/EotH1apO3ZBFo3ghdWT08AsBXVDXNm0aqxDDWke3y60Kog?e=jPgFIo"
+                  },
+                  "channel2": {
+                    "name": "百度网盘",
+                    "原版": "https://pan.baidu.com/s/1fSy4nVNJqTa708U90YA80w?pwd=wmbq",
+                    "中文译名修正": "https://pan.baidu.com/s/1JkpnOAvsYfVwQv9jHjyDJQ?pwd=jy6a",
+                    "去验证版": "https://pan.baidu.com/s/1gvVQv2Tq6b0OFlC6O7PZxw?pwd=78du",
+                    "多架构版": "https://pan.baidu.com/s/1TLPvIrSV7mv9WFEPZJeHVw?pwd=yg6h",
+                    "精简版": "https://pan.baidu.com/s/1ITPF1_HSwdbKAF95kIiA9Q?pwd=hg92"
+                  },
+                  "channel3": {
+                    "name": "夸克网盘",
+                    "原版": "https://pan.quark.cn/s/2ee487477253",
+                    "中文译名修正": "https://pan.quark.cn/s/b3cf86f330f9",
+                    "去验证版": "https://pan.quark.cn/s/f4d2cc074e8c",
+                    "多架构版": "https://pan.quark.cn/s/7cf1b4686cfd",
+                    "精简版": "https://pan.quark.cn/s/22aca1b40f6d"
+                  },
+                  "channel4": {
+                    "name": "123云盘",
+                    "原版": "https://www.123684.com/s/qILA-LkjN3",
+                    "中文译名修正": "https://www.123684.com/s/qILA-ykjN3",
+                    "去验证版": "https://www.123684.com/s/qILA-5kjN3",
+                    "多架构版": "https://www.123684.com/s/qILA-6kjN3",
+                    "精简版": "https://www.123684.com/s/qILA-qkjN3"
+                  }
+                }
+              }
+            }
+          },
+          // ============================================================
           // 1.21.90 - 追逐天空
           // ============================================================
           {
@@ -20,7 +75,7 @@
             "platforms": {
               "android": {
                 "release": "未知", // TODO 待更新
-                "build": "1.21.90.20(+1), 1.21.90.21(+1), 1.21.90.23(+1), 1.21.90.25(+1), 1.21.90.26(+1), 1.21.90.27(+1), 1.21.90.28(+1)", // TODO 待更新
+                "build": "1.21.90.20(+1), 1.21.90.21(+1), 1.21.90.23(+1), 1.21.90.25(+1), 1.21.90.26(+1), 1.21.90.27(+1), 1.21.90.28(+1)",
                 "support": "目标API: 34 | 最小API: 26",
                 "arch": "ARMv8, x86_64, ARMv7, x86, Universal",
                 "type": "APK(修改版) / APKS(原版)",
