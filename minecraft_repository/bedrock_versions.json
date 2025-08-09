@@ -206,13 +206,13 @@
             "update_artwork": "",
             "platforms": {
               "android": {
-                "release": "未知", // TODO 待更新
+                "release": "1.21.100.6(+4)",
                 "build": "1.21.100.20(+1), 1.21.100.21(+1), 1.21.100.22(+1), 1.21.100.23(+1), 1.21.100.24(+1)",
                 "support": "目标API: 34 | 最小API: 26",
                 "arch": "ARMv8, x86_64, ARMv7, x86, Universal",
                 "type": "APK(修改版) / APKS(原版)",
-                "size": "未知", // TODO 待更新
-                "note": "正式版暂未发布", // TODO 待更新
+                "size": "291MB ~ 793MB",
+                "note": "无",
                 "style": "type",
                 "more_type": "true",
                 "channels": {
