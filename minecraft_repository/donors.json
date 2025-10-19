@@ -1,6 +1,18 @@
 [
   {
     "user": "匿名赞助者",
+    "amount": "CNY 0.91",
+    "platform": "W",
+    "time": "2025.10.02"
+  },
+  {
+    "user": "匿名赞助者",
+    "amount": "CNY 1.05",
+    "platform": "W",
+    "time": "2025.10.01"
+  },
+  {
+    "user": "匿名赞助者",
     "amount": "CNY 10",
     "platform": "Z",
     "time": "2025.08.07"
