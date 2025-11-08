@@ -152,7 +152,7 @@
             "platforms": {
               "android": {
                 "release": "未知", // TODO 待更新
-                "build": "1.21.130.20",
+                "build": "1.21.130.20, 1.21.130.22, 1.21.130.24, 1.21.130.26",
                 "support": "目标API: 35 | 最小API: 26",
                 "arch": "ARMv8, x86_64, ARMv7, x86, Universal",
                 "type": "APK(修改版) / APKS(原版)",
@@ -206,7 +206,7 @@
             "update_artwork": "",
             "platforms": {
               "android": {
-                "release": "未知", // TODO 待更新
+                "release": "1.21.120.4(+4), 1.21.121.1(+4)",
                 "build": "1.21.120.20, 1.21.120.21, 1.21.120.22, 1.21.120.23, 1.21.120.24, 1.21.120.25",
                 "support": "目标API: 35 | 最小API: 26",
                 "arch": "ARMv8, x86_64, ARMv7, x86, Universal",
