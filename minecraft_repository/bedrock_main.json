@@ -1,5 +1,17 @@
 [
   {
+    "id": "26",
+    "title": "26",
+    // "logo": "",
+    // "artwork": "",
+    "description": "<a href=\"https://zh.minecraft.wiki/w/%E5%9F%BA%E5%B2%A9%E7%89%8826.0\" target=\"_blank\">26.0</a>是基岩版即将到来的一次次要更新, 发布时间待定. 此次基岩版更新将首次采用新版本格式, 该格式宣布于2025年12月2日.",
+    "platform": {
+      "Android": "Android",
+      "iOS": "iOS" ,
+      "Windows": "Windows"
+    }
+  },
+  {
     "id": "1.21",
     "title": "1.21 - 棘巧试炼",
     "logo": "Tricky_Trials.png",
