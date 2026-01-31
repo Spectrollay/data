@@ -143,6 +143,61 @@
         "version_name": "26",
         "child_versions": [
           // ============================================================
+          // 26.10
+          // ============================================================
+          {
+            "id": "26.10",
+            "version_name": "26.10",
+            "update_artwork": "",
+            "platforms": {
+              "android": {
+                "release": "暂未发布", // TODO 待更新
+                "build": "26.10.20(+1)", // TODO 待更新
+                "support": "目标API: 35 | 最小API: 26",
+                "arch": "ARMv8, x86_64",
+                "type": "APK(修改版) / APKS(原版)",
+                "size": "未知", // TODO 待更新
+                "note": "无",
+                "style": "type",
+                "more_type": "true",
+                "channels": {
+                  "channel1": {
+                    "name": "OneDrive",
+                    "原版": "https://stellarnetwork-my.sharepoint.com/:f:/g/personal/spectrollay_e5_ilogic_studio/IgBTb5ViDlyWR6PzxsaZXOzXAT8FOGrCnhDf2P_sD--bZ5w?e=42KuGx",
+                    "中文译名修正": "https://stellarnetwork-my.sharepoint.com/:f:/g/personal/spectrollay_e5_ilogic_studio/IgDsp7MbaCV1RJnjNfLvfx8-AatUx46evDm1RnD_cPBYRqg?e=NAIooX",
+                    "去验证版": "https://stellarnetwork-my.sharepoint.com/:f:/g/personal/spectrollay_e5_ilogic_studio/IgB6D7py0gptT5_EHTC7qrhWASZnSTkMZhgwCj1eHio9z-4?e=RWIRaF",
+                    "多架构版": "https://stellarnetwork-my.sharepoint.com/:f:/g/personal/spectrollay_e5_ilogic_studio/IgDNiiCN6aOGRZnNCWfTAW_1AWPlADQe9jwC8n7Z2NfpZKc?e=rbC7Nf",
+                    "精简版": "https://stellarnetwork-my.sharepoint.com/:f:/g/personal/spectrollay_e5_ilogic_studio/IgCnOCqMQuoBQY9VLt51PFTVAepguVrGzl-UKfEW82I3E84?e=wHTdYz"
+                  },
+                  "channel2": {
+                    "name": "百度网盘",
+                    "原版": "https://pan.baidu.com/s/1W93ACNaYteHdl8M3ltcTFQ?pwd=xpu1",
+                    "中文译名修正": "https://pan.baidu.com/s/1S9D0-xyaYFS7qp9dj54toA?pwd=uqbf",
+                    "去验证版": "https://pan.baidu.com/s/1ucDEGWv_ET4ivmZBNbEIGg?pwd=7igv",
+                    "多架构版": "https://pan.baidu.com/s/10a4tGOFLUGyRyxYAC-lWIg?pwd=gdkh",
+                    "精简版": "https://pan.baidu.com/s/17d8Zaposm4Uj8bsYQ1dA8g?pwd=9jrj"
+                  },
+                  "channel3": {
+                    "name": "夸克网盘",
+                    "原版": "https://pan.quark.cn/s/e8f3140ce915",
+                    "中文译名修正": "https://pan.quark.cn/s/3e592f017581",
+                    "去验证版": "https://pan.quark.cn/s/b41da3df4c8f",
+                    "多架构版": "https://pan.quark.cn/s/02c58dabccc8",
+                    "精简版": "https://pan.quark.cn/s/1d11903f7299"
+                  },
+                  "channel4": {
+                    "name": "123云盘",
+                    "原版": "https://www.123865.com/s/qILA-YvvO3",
+                    "中文译名修正": "https://www.123865.com/s/qILA-nvvO3",
+                    "去验证版": "https://www.123865.com/s/qILA-GvvO3",
+                    "多架构版": "https://www.123865.com/s/qILA-XvvO3",
+                    "精简版": "https://www.123865.com/s/qILA-PvvO3"
+                  }
+                }
+              }
+            }
+          },
+          // ============================================================
           // 26.0
           // ============================================================
           {
@@ -152,7 +207,7 @@
             "platforms": {
               "android": {
                 "release": "暂未发布", // TODO 待更新
-                "build": "26.0.23(+1), 26.0.25(+1), 26.0.27(+1), 26.0.28(+1), 26.0.29(+1)", // TODO 待更新
+                "build": "26.0.23(+1), 26.0.25(+1), 26.0.27(+1), 26.0.28(+1), 26.0.29(+1)",
                 "support": "目标API: 35 | 最小API: 26",
                 "arch": "ARMv8, x86_64",
                 "type": "APK(修改版) / APKS(原版)",
