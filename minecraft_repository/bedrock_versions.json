@@ -152,7 +152,7 @@
             "platforms": {
               "android": {
                 "release": "暂未发布", // TODO 待更新
-                "build": "26.10.20(+1)", // TODO 待更新
+                "build": "26.10.20(+1), 26.10.21(+1)", // TODO 待更新
                 "support": "目标API: 35 | 最小API: 26",
                 "arch": "ARMv8, x86_64",
                 "type": "APK(修改版) / APKS(原版)",
