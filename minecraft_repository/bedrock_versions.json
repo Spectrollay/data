@@ -152,7 +152,7 @@
             "platforms": {
               "android": {
                 "release": "暂未发布", // TODO 待更新
-                "build": "26.30.21(+1), 26.30.25(+1)",
+                "build": "26.30.21(+1), 26.30.25(+1), 26.30.27(+1)",
                 "support": "目标API: 35 | 最小API: 26",
                 "arch": "ARMv8, x86_64, 64-bit",
                 "type": "APK(修改版) / APKS(原版)",
@@ -206,12 +206,12 @@
             "update_artwork": "",
             "platforms": {
               "android": {
-                "release": "暂未发布", // TODO 待更新
+                "release": "26.20.4(+2)",
                 "build": "26.20.20(+1), 26.20.21(+1), 26.20.22(+1), 26.20.24(+1), 26.20.26(+1), 26.20.27(+1), 26.20.28(+1)",
                 "support": "目标API: 35 | 最小API: 26",
                 "arch": "ARMv8, x86_64, 64-bit",
                 "type": "APK(修改版) / APKS(原版)",
-                "size": "未知", // TODO 待更新
+                "size": "347MB ~ 5645MB",
                 "note": "无",
                 "style": "type",
                 "more_type": "true",
@@ -371,7 +371,7 @@
             "update_artwork": "",
             "platforms": {
               "ios": {
-                "release": "26.0, 26.1, 26.2, 26.3, 26.10, 26.12, 26.13", // TODO 待更新
+                "release": "26.0, 26.1, 26.2, 26.3, 26.10, 26.12, 26.13, 26.20", // TODO 待更新
                 "build": "无",
                 "support": "最低系统版本: iOS 13",
                 "arch": "ARM64",
