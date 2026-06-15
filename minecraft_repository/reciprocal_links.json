@@ -47,6 +47,13 @@
     "desc": "可爱牛奶盒的博客网站",
     "img": "https://www.milk-box.top/picture/milkbox_logo.png",
     "url": "https://www.milk-box.top/"
+  },
+  // 老豆荚Oldpods
+  {
+    "name": "老豆荚Oldpods",
+    "desc": "老豆荚是一个致力于收集旧机适用软件的精品资源分享网。",
+    "img": "https://image.dmpdmp.com/image/ico/2026/02/20/275201132-67.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+    "url": "https://oldpods.cn"
   }
   // 友链
   // {
