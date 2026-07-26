@@ -54,12 +54,19 @@
     "desc": "老豆荚是一个致力于收集旧机适用软件的精品资源分享网。",
     "img": "https://image.dmpdmp.com/image/ico/2026/02/20/275201132-67.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
     "url": "https://oldpods.cn"
+  },
+  // 繁中方塊社
+  {
+    "name": "繁中方塊社",
+    "desc": "方塊傳承，初心未改。",
+    "img": "images/ExternalLink_white.png",
+    "url": "https://mcbbs.space/"
   }
   // 友链
   // {
   //   "name": "这是网站名称",
   //   "desc": "这是网站描述",
-  //   "img": "这是网站图片",
+  //   "img": "images/ExternalLink_white.png",
   //   "url": "这是网站链接"
   // }
 ]
