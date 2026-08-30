@@ -61,6 +61,13 @@
     "desc": "方塊傳承，初心未改。",
     "img": "images/ExternalLink_white.png",
     "url": "https://mcbbs.space/"
+  },
+  // 小布のMC版本库
+  {
+    "name": "小布のMC版本库",
+    "desc": "MC基岩版全版本下载-免登录",
+    "img": "https://xbwf.top/images/icon/512.png",
+    "url": "https://mcdl.xbu.hk"
   }
   // 友链
   // {
