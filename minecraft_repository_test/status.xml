@@ -22,17 +22,17 @@
 
 <config>
     <site_status>200</site_status><!-- 200,404,warn,error -->
-    <is_show_modal>0</is_show_modal><!-- 0不显示,1显示 -->
-    <show_modal_times>1</show_modal_times><!-- 0代表无限制 -->
+    <is_show_modal>1</is_show_modal><!-- 0不显示,1显示 -->
+    <show_modal_times>0</show_modal_times><!-- 0代表无限制 -->
     <modal_config>
         <![CDATA[
             <div class="overlay" id="overlay_status_modal"></div>
-            <modal_area id="status_modal">
+            <modal_area id="status_modal" style="display: none;">
                 <modal>
                     <modal_title_area>
-                        <modal_title>状态弹窗</modal_title>
+                        <modal_title>闭站维护公告</modal_title>
                     </modal_title_area>
-                    <modal_content><p>这是一个状态弹窗</p></modal_content>
+                    <modal_content><p>由于项目重组与业务调整，版本库将于2026年9月12日起进行闭站维护，请注意在维护开始前及时保存需要的内容。由于涉及到项目架构变更，维护期间可能将无法访问站点，故维护完成时将另行通过<a href="javascript:void(0);" onclick="contact();">官方频道及群组</a>通知。感谢你的理解与配合。特此通知。</p></modal_content>
                     <modal_button_area>
                         <modal_button_group>
                             <modal_button_list>
