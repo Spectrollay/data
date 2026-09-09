@@ -1,5 +1,17 @@
 [
   {
+    "user": "D*l",
+    "amount": "CNY 5",
+    "platform": "W",
+    "time": "2026.09.01"
+  },
+  {
+    "user": "刘*2",
+    "amount": "CNY 1",
+    "platform": "W",
+    "time": "2026.08.31"
+  },
+  {
     "user": "好*v",
     "amount": "CNY 9",
     "platform": "W",
