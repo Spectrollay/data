@@ -1,5 +1,11 @@
 [
   {
+    "user": "匿名用户",
+    "amount": "CNY 1",
+    "platform": "Z",
+    "time": "2026.09.10"
+  },
+  {
     "user": "D*l",
     "amount": "CNY 5",
     "platform": "W",
